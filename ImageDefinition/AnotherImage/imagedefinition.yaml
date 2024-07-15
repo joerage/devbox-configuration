@@ -1,6 +1,6 @@
 $schema: 1.0
 name: workingImage
-image: MicrosoftWindowsDesktop_windows-ent-cpc_win11-23h2-ent-cpc-os
+image: microsoftwindowsdesktop_windows-ent-cpc_win11-23h2-ent-cpc-os
 tasks:
     - name: choco
       displayName: Notepad
