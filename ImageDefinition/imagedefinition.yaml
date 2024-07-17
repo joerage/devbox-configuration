@@ -5,3 +5,7 @@ tasks:
     - name: choco
       parameters:
         package: notepadplusplus.install
+    - name: choco
+      parameters:
+        package: 7zip.install
+        
